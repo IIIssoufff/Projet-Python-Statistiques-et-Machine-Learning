@@ -1,4 +1,4 @@
-# Premier-Dep-t
+# Python Statistiques et Machine Learning
 ## Description
 
 Dans ce projet, la mission est de valoriser les données  en proposant :
